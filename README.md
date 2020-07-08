@@ -1,2 +1,2 @@
 # WPF-Calculator
-IOS calculator built in WPF Core
+Replica IOS calculator built in WPF Core
